@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hello!  
+
+Looking fwd to learning more about gh.
+
